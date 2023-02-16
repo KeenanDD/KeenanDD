@@ -2,7 +2,7 @@
 - 👀 I’m interested in 3D modelling, web and videogame design.
 - 🌱 I’m currently learning Zbrush & Blender
 - 💞️ I’m looking to collaborate on any Web development projects
-- 📫 How to reach me, on Facebook or Linkdin.
+- 📫 How to reach me, on Facebook or Linkedin.
 
 <!---
 KeenanDD/KeenanDD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
